@@ -5,10 +5,25 @@ JEECG 微云快速开发平台
 
 需要修改的文字：
 -----------------------------------
-* 1.AAAA
-* 2.开发效率很高,采用代码生成器，单表数据模型和一对多(父子表)数据模型，增删改查功能自动生成，菜单配置直接使用；
-
-
+| 文件名称 | 文件路径 | 行号 | 内容 |
+| - | - | - | - |
+| login.jsp | src/main/webapp/webpage/login/login.jsp | 52 | JEECG 演示系统 |
+| login.jsp | src/main/webapp/webpage/login/login.jsp | 120 | 详见源文件 |
+| login3.jsp | src/main/webapp/webpage/login/login3.jsp | 121,132 | 详见源文件 |
+| ace_main.jsp | src/main/webapp/webpage/main/ace_main.jsp | 69 | JEECG 微云快速开发平台 |
+| ace_main2.jsp | src/main/webapp/webpage/main/ace_main2.jsp | 501 | <span class="blue bolder">JEECG</span> |
+| acehome.jsp | src/main/webapp/webpage/main/acehome.jsp | 全部 | 详见源文件 |
+| adminlte_main.jsp | src/main/webapp/webpage/main/adminlte_main.jsp | 11~12,328~330 | 详见源文件 |
+| bootstrap_main.jsp | src/main/webapp/webpage/main/bootstrap_main.jsp | 85~86 | 详见源文件 |
+| diy.jsp | src/main/webapp/webpage/main/diy.jsp | 415~416 | 详见源文件 |
+| fineui_home.jsp | src/main/webapp/webpage/main/fineui_home.jsp | 全部 | 详见源文件 |
+| home.jsp | src/main/webapp/webpage/main/home.jsp | 全部 | 详见源文件 |
+| homeTab.jsp | src/main/webapp/webpage/main/homeTab.jsp | 全部 | 详见源文件 |
+| hplus_main.jsp | src/main/webapp/webpage/main/hplus_main.jsp | 12~13,42,59 | 详见源文件 |
+| hplushome.jsp | src/main/webapp/webpage/main/hplushome.jsp | 全部 | 详见源文件 |
+| main.jsp | src/main/webapp/webpage/main/main.jsp | 249~251 | 详见源文件 |
+| shortcut_main.jsp | src/main/webapp/webpage/main/shortcut_main.jsp | 179,308~310 | 详见源文件 |
+| sliding_main.jsp | src/main/webapp/webpage/main/sliding_main.jsp | 6 | <title>JEECG 微云快速开发平台</title> |
 
 需要修改的图片：
 -----------------------------------
