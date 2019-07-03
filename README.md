@@ -40,7 +40,7 @@ JEECG 微云快速开发平台
 | 10 | toplogo-main.png | src/main/webapp/plug-in/login/images/toplogo-main.png | 576×59 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/toplogo-main.png "Jeecg快速开发平台") |
 | 11 | typelogin.png | src/main/webapp/plug-in/login/images/typelogin.png | 111×110 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/typelogin.png "Jeecg快速开发平台") |
 
-各风格对应的浏览器：
+各风格浏览器兼容性：
 -----------------------------------
 | # | ACE平面风格 | ShortCut风格 | 经典风格 | Sliding云桌面 | H+平面风格 | FineUI风格 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
