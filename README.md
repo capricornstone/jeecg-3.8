@@ -13,7 +13,7 @@ JEECG 微云快速开发平台
 | ace_main.jsp | src/main/webapp/webpage/main/ace_main.jsp | 69 | JEECG 微云快速开发平台 |
 | ace_main2.jsp | src/main/webapp/webpage/main/ace_main2.jsp | 501 | <span class="blue bolder">JEECG</span> |
 | acehome.jsp | src/main/webapp/webpage/main/acehome.jsp | 全部 | 详见源文件 |
-| adminlte_main.jsp | src/main/webapp/webpage/main/adminlte_main.jsp | 11~12,328~330 | 详见源文件 |
+| adminlte_main.jsp | src/main/webapp/webpage/main/adminlte_main.jsp | 11,12,328~330 | 详见源文件 |
 | bootstrap_main.jsp | src/main/webapp/webpage/main/bootstrap_main.jsp | 85~86 | 详见源文件 |
 | diy.jsp | src/main/webapp/webpage/main/diy.jsp | 415~416 | 详见源文件 |
 | fineui_home.jsp | src/main/webapp/webpage/main/fineui_home.jsp | 全部 | 详见源文件 |
