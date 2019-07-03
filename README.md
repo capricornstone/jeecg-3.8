@@ -16,6 +16,12 @@ JEECG 微云快速开发平台
 | - | - | - | - |
 | favicon.ico | src/main/webapp/images/favicon.ico | 16×16 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/images/favicon.ico "Jeecg快速开发平台") | 
 | head.png | src/main/webapp/plug-in/login/images/head.png | 131×59 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/head.png "Jeecg快速开发平台") |
-
-
-    
+| jeecg.jpg | src/main/webapp/plug-in/login/images/jeecg.jpg | 344×344 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/jeecg.jpg "Jeecg快速开发平台") |
+| jeecg.png | src/main/webapp/plug-in/login/images/jeecg.png | 153×55 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/jeecg.png "Jeecg快速开发平台") |
+| jeecg_tag.png | src/main/webapp/plug-in/login/images/jeecg_tag.png | 111×110 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/jeecg_tag.png "Jeecg快速开发平台") |
+| jeecg-aceplus.png | src/main/webapp/plug-in/login/images/jeecg-aceplus.png | 220×80 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/jeecg-aceplus.png "Jeecg快速开发平台") |
+| logo.jpg | src/main/webapp/plug-in/login/images/logo.jpg | 397×104 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/logo.jpg "Jeecg快速开发平台") |
+| toplogo.png | src/main/webapp/plug-in/login/images/toplogo.png | 576×59 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/toplogo.png "Jeecg快速开发平台") |
+| toplogo-jeecg.png | src/main/webapp/plug-in/login/images/toplogo-jeecg.png | 576×59 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/toplogo-jeecg.png "Jeecg快速开发平台") |
+| toplogo-main.png | src/main/webapp/plug-in/login/images/toplogo-main.png | 576×59 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/toplogo-main.png "Jeecg快速开发平台") |
+| typelogin.png | src/main/webapp/plug-in/login/images/typelogin.png | 111×110 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/typelogin.png "Jeecg快速开发平台") |
