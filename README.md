@@ -6,7 +6,7 @@ JEECG 微云快速开发平台
 需要修改的文字：
 -----------------------------------
 | 序号 | 文件名称 | 文件路径 | 行号 | 内容 |
-| - | - | - | - | - |
+| :-: | - | - | - | - |
 | 1 | login.jsp | src/main/webapp/webpage/login/login.jsp | 52,120 | 详见源文件 |
 | 2 | login3.jsp | src/main/webapp/webpage/login/login3.jsp | 121,132 | 详见源文件 |
 | 3 | ace_main.jsp | src/main/webapp/webpage/main/ace_main.jsp | 69 | JEECG 微云快速开发平台 |
@@ -27,7 +27,7 @@ JEECG 微云快速开发平台
 需要修改的图片：
 -----------------------------------
 | 序号 | 图片名称 | 图片路径 | 像素 | 图片 |
-| - | - | - | - | - |
+| :-: | - | - | - | - |
 | 1 | favicon.ico | src/main/webapp/images/favicon.ico | 16×16 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/images/favicon.ico "Jeecg快速开发平台") | 
 | 2 | head.png | src/main/webapp/plug-in/login/images/head.png | 131×59 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/head.png "Jeecg快速开发平台") |
 | 3 | jeecg.jpg | src/main/webapp/plug-in/login/images/jeecg.jpg | 344×344 | ![JEECG](https://github.com/capricornstone/jeecg-3.8/blob/master/src/main/webapp/plug-in/login/images/jeecg.jpg "Jeecg快速开发平台") |
